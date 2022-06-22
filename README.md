@@ -22,5 +22,11 @@ json-server --watch db.json
 
 ### Ürünlerin Listelenmesi ve Sepete Eklenmesi
 
+
+https://user-images.githubusercontent.com/98098019/175066125-4f3f6a71-51cf-40fa-8c23-16d8bfef5067.mov
+
+
 ### Routing İşleminin Yapılması
+
+https://user-images.githubusercontent.com/98098019/175066194-f7f7d6ea-cb88-433d-9a0f-20decc1bf902.mov
 
